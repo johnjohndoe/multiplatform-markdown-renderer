@@ -26,6 +26,8 @@ dependencies {
 
     implementation(libs.androidx.material)
     implementation(libs.androidx.activity.compose)
+    implementation(libs.androidx.fragment.compose)
+    implementation(libs.androidx.fragment)
     implementation(libs.bundles.coil)
     implementation(libs.coil.svg)
 
